@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 permalink: /:categories/:year/:month/:title/
 title: Personal Site
 description: This is my personal portfolio site
